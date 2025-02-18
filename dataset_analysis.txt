@@ -1,0 +1,71 @@
+https://www.alphavantage.co/ -- Financial dataset 
+
+Alpha Vantage offers a comprehensive suite of APIs that can significantly enhance your financial service bot by providing a wide range of financial data and analytical tools. Here's how you can leverage their offerings:
+
+1. Time Series Stock Data APIs
+Access real-time and historical stock data with various temporal resolutions:
+Intraday Data: Retrieve minute-by-minute stock prices.
+Daily, Weekly, Monthly Data: Obtain end-of-day prices over different periods.
+
+2. Technical Indicators
+Integrate over 50 technical indicators into your bot, such as:
+Moving Averages: SMA, EMA
+Momentum Indicators: MACD, RSI
+Volatility Measures: Bollinger Bands
+
+3. Fundamental Data
+Enhance your bot's analytical capabilities with access to company financials:
+Income Statements
+Balance Sheets
+Cash Flow Statements
+
+4. Forex and Cryptocurrency Data
+Expand your bot's scope by incorporating:
+Foreign Exchange Rates: Real-time and historical data for currency pairs.
+Cryptocurrency Prices: Data for various digital currencies.
+
+5. Sector Performance
+Provide users with insights into market trends by analyzing performance across different sectors.
+
+6. Economic Indicators
+Incorporate macroeconomic data to give context to market movements, such as GDP and unemployment rates.
+
+7. Market News and Sentiment Analysis
+Keep users informed with the latest news and sentiment analysis to gauge market mood.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CHATBOT -- 3K Conversations Database
+
+The 3K Conversations Dataset is a dataset typically used for training and evaluating chatbots and other conversational AI systems. It contains around 3,000 dialogues between users and agents. These conversations usually cover a wide range of topics, making it a valuable resource for training models to handle different scenarios, improve their conversational abilities, and understand various user intents.
+Here are some key features of this dataset:
+
+Variety of Topics: The dataset is designed to expose the model to diverse topics, which could include casual conversation, task-based dialogue, or specific domain knowledge.
+
+Dialogue Structure: It contains conversations structured as multi-turn exchanges, which help in training models to maintain context and coherence in conversations.
+
+Real-world Applicability: Since it is based on real interactions, it is suitable for building practical conversational agents.
+
+Open-Source: Many versions of this dataset are open and available for use in various research and development projects.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Customer Support on Twitter -- chatbot 
+
+The Customer Support on Twitter dataset is a collection of real-world customer service interactions via Twitter, designed for training, evaluating, and improving AI models for customer support automation on social media platforms. This dataset typically contains customer queries and the responses provided by support teams or automated systems.
+Here are some key characteristics of the dataset:
+
+Real-World Data: The dataset consists of actual conversations between customers and support teams on Twitter, which include customer complaints, inquiries, and feedback, as well as the company's responses.
+
+Social Media Context: It captures the specific dynamics of Twitter, such as character limits, hashtags, mentions, and informal language. This is important because customer support on Twitter often involves brief, concise exchanges.
+
+Topics and Domains: The dataset covers a wide range of customer service topics, such as product issues, account problems, technical support, and general inquiries. This makes it useful for training models in different industries.
+
+Data Preprocessing: The data often includes features such as timestamps, user mentions, hashtags, and sentiment annotations, which can help in training models to identify emotions or urgency in customer inquiries.
+
+Multi-turn Conversations: Since customer service interactions often require back-and-forth exchanges, the dataset includes multi-turn dialogues, helping chatbots or AI models maintain context across several exchanges.
+
+Sentiment and Intent: Many versions of the dataset contain sentiment labels (e.g., positive, neutral, negative) and intent annotations, which are useful for training models to assess customer emotions and categorize their requests.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
